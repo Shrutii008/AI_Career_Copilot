@@ -101,8 +101,9 @@ if uploaded_file is not None:
 
     if score > 100:
         score = 100
-        missing = []
-
+        
+    missing = []
+        
     for skill in recommended:
         if skill not in found_skills:
             missing.append(skill)
