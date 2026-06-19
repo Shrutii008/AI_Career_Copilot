@@ -1,5 +1,8 @@
 # 📄 AI Resume Analyzer
 
+## 🌐 Live Demo
+🔗 https://airesumeanalyzer-vkhn8s6mkdzxgq2g34zs6f.streamlit.app
+
 ## 🚀 Overview
 AI Resume Analyzer is a Streamlit-based web application that automates resume screening by extracting information from PDF resumes. It identifies key technical skills, calculates an ATS-style score, and provides personalized feedback such as missing skills and interview questions based on the candidate profile.
 
